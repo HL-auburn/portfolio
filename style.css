@@ -1,0 +1,22 @@
+.cta-buttons {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.btn-style {
+    display: inline-block;
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 1em;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+
+.btn-red { background-color: #ff3200; }
+.btn-yellow { background-color: #ffbf00; color: black; }
+.btn-gold { background-color: #ffc107; color: black; }
+.btn-pink { background-color: #dc3545; }
+.btn-teal { background-color: #17a2b8; }
